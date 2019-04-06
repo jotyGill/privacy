@@ -100,15 +100,27 @@ I do not believe that anyone at companies like Youtube (Google) intentionally fe
 #### References:<a name="references"></a>
 
 [1][S. Englehardt and A. Narayanan, “Online Tracking: A 1-million-site Measurement and Analysis,” in Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security - CCS’16, Vienna, Austria, 2016, pp. 8.](http://dl.acm.org/citation.cfm?doid=2976749.2978313)
+
 [2][S. Englehardt and A. Narayanan, “Online Tracking: A 1-million-site Measurement and Analysis,” in Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security - CCS’16, Vienna, Austria, 2016, pp. 10.](http://dl.acm.org/citation.cfm?doid=2976749.2978313)
+
 [3][J. A. Obar and A. Oeldorf-Hirsch, “The Biggest Lie on the Internet: Ignoring the Privacy Policies and Terms of Service Policies of Social Networking Services,” Social Science Research Network, Rochester, NY, SSRN Scholarly Paper ID 2757465, Jun. 2018.](https://papers.ssrn.com/abstract=2757465)
+
 [4][Terms and Conditions May Apply.](https://www.imdb.com/title/tt2084953/)
+
 [5][“Uber said it protects you from spying. Security sources say otherwise,” Reveal, 12-Dec-2016.](https://www.revealnews.org/article/uber-said-it-protects-you-from-spying-security-sources-say-otherwise/)
+
 [6]N. Saint, “Google CEO: ‘We Know Where You Are. We Know Where You’ve Been. We Can More Or Less Know What You’re Thinking About.,’” Business Insider Australia, 05-Oct-2010. [Online]. Available: https://www.businessinsider.com.au/eric-schmidt-we-know-where-you-are-we-know-where-youve-been-we-can-more-or-less-know-what-youre-thinking-about-2010-10. [Accessed: 06-Apr-2019].
+
 [7][A. the A. / S. D. S. A. D. was a senior privacy analyst at A. from 2010 to 2013 S. now an early stage investor at Accomplice,  a V. firm in Cambridge, and MA., “Facebook Likes predict sexual orientation, religion, and more,” Online Privacy | Abine, 12-Mar-2013. .](https://www.abine.com/blog/2013/facebook-likes-predict-who-you-are/)
+
 [8]P. Martineau, “Facebook is tracking you on over 8.4 million websites,” The Outline. [Online]. Available: https://theoutline.com/post/4578/facebook-is-tracking-you-on-over-8-million-websites. [Accessed: 11-Mar-2019].
+
 [9]“You Probably Don’t Know All The Ways Facebook Tracks You,” Gizmodo Australia, 13-Jun-2017. [Online]. Available: https://www.gizmodo.com.au/2017/06/you-probably-dont-know-all-the-ways-facebook-tracks-you/. [Accessed: 11-Mar-2019].
+
 [10][“Facebook knows you’re gay before you do,” AMERICAblog News, 20-Mar-2013. .](http://gay.americablog.com/2013/03/facebook-might-know-youre-gay-before-you-do.html)
+
 [11][B. Schneier, Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World, 1 edition. New York London: W. W. Norton & Company, 2016.](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X)
+
 [12][E. Pariser, Beware online “filter bubbles.” .](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles)
+
 [13][E. Pariser, The Filter Bubble: What the Internet Is Hiding from You. New York: Penguin Press, 2011.](https://www.amazon.com/The-Filter-Bubble-Internet-Hiding/dp/1594203008/)
