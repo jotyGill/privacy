@@ -18,7 +18,7 @@ This project is a collection of arguments and thoughts (backup up by evidence) o
 9. [Social Media and Spread of Misinformation](#socialmedia)
 
 
-#### Privacy: The Currency Of Modern Internet <a name="currency"></a>
+#### 1.0 Privacy: The Currency Of Modern Internet <a name="currency"></a>
 
 Tracking is built deep within the infrastructure of most services on the web. We are all aware that companies like Google, Facebook generate their revenue by tracking and understanding our behaviours and serving ads that we are likely to click on based on our preferences/behaviours. I believe most of us are unaware of the extent of this tracking, the fact that companies like these track all activities even when we are not logged in or using their service at all.
 **For example Google tracks your activities across >70% of all websites, even when you are not logged into Google or using any of it's services (search engine, Chrome).**
@@ -69,7 +69,7 @@ Facebook knows about; Where you go, Your financial status, Status updates you al
 There are cases, when Facebook was shown to know something deeply fundamental about their users, even before they realised it themselvesas; their own sexual orientation [10].
 
 
-#### The Illusion Of "Free" Internet Services <a name="illusionoffree"></a>
+#### 2.0 The Illusion Of "Free" Internet Services <a name="illusionoffree"></a>
 Significant portion of the software/technologies that have enabled us to create the internet, the World Wide Web and the infrastructure of dot-com companies are open source and "free" as in freedom and "free" of cost.
 These hundreds of thousands of people who have created these technologies and allowed others to freely use, modify, built upon and redistribute all that for the advancement of society and free of charge are the true heroes of this technological revolution.
 Most of the "free of charge online services" on the other hand, that have operational costs and are run by companies are not really "free".
@@ -78,13 +78,13 @@ Most of the "free of charge online services" on the other hand, that have operat
 **These "free of charge" services are not the product, we are not the customers, our attention and privacy is the product, advertisers and third parties interested in our data are the customers.**
 This thorough surveillance is certainly not limited to "free" services. Companies that sell products/services directly to us like Amazon or Uber also heavily utilise their user's data/metadata.
 
-#### The illusion of "Anonymous" data collection: <a name="illusionofanonymous"></a>
+#### 3.0 The illusion of "Anonymous" data collection: <a name="illusionofanonymous"></a>
 Many companies claim to not include any personally identifying information in their data collection and assure us that our identity is protected. This can be deceptive. It is well understood and research demonstrates that it is very easy to de anonymise data by correlating different data sets. As demonstrated in the cases of AOL search data of 657,000 users, Netflix's 10 million movie rankings by 500,000 anonymized customers. [11]
 Even if two or more data-sets do not have "personally identifying information" on their own, their correlation can reveal this information.
 "This is why regulation based on the concept of “personally identifying information” doesn’t work." Bruce Schneier [11] [Data And Goliath - Bruce Schneier. P. 93].
 
 
-#### Algorithms: Shaping Minds and Societies:<a name="algorithmsshapingminds"></a>
+#### 4.0 Algorithms: Shaping Minds and Societies:<a name="algorithmsshapingminds"></a>
 For the most part, the state of the world is what Google search results report to you, what comes up in your Facebook feed, your news feeds. And results are different for everyone. Decided by the machine learning algorithms. This is because our "feeds" are personalised, Google search for example displays the result to you that it's algorithms think you are more likely to click on/ interested in. This phenomenon is called the "Filter Bubble" [12] [13]. It can lead to many social problems such as increase in political / cultural / racial divides.
 For example when a platform like search engine or social media feed gets a good idea of what your political preference is, it would show you more results/articles that subscribe to your political view, as you are more likely to click on them and spend more screen time on them.
 These filter bubbles keep reinforcing the believes we currently hold (or are exposed to for the first time) and keep feeding back confirmation bias to us. This goes against the core idea of rationality; being self critical. This effect can be seen in the emergence of movements like anti-vax, flat earth, climate change denial.
@@ -98,3 +98,17 @@ I do not believe that anyone at companies like Youtube (Google) intentionally fe
 
 
 #### References:<a name="references"></a>
+
+[1][S. Englehardt and A. Narayanan, “Online Tracking: A 1-million-site Measurement and Analysis,” in Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security - CCS’16, Vienna, Austria, 2016, pp. 8.](http://dl.acm.org/citation.cfm?doid=2976749.2978313)
+[2][S. Englehardt and A. Narayanan, “Online Tracking: A 1-million-site Measurement and Analysis,” in Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security - CCS’16, Vienna, Austria, 2016, pp. 10.](http://dl.acm.org/citation.cfm?doid=2976749.2978313)
+[3][J. A. Obar and A. Oeldorf-Hirsch, “The Biggest Lie on the Internet: Ignoring the Privacy Policies and Terms of Service Policies of Social Networking Services,” Social Science Research Network, Rochester, NY, SSRN Scholarly Paper ID 2757465, Jun. 2018.](https://papers.ssrn.com/abstract=2757465)
+[4][Terms and Conditions May Apply.](https://www.imdb.com/title/tt2084953/)
+[5][“Uber said it protects you from spying. Security sources say otherwise,” Reveal, 12-Dec-2016.](https://www.revealnews.org/article/uber-said-it-protects-you-from-spying-security-sources-say-otherwise/)
+[6]N. Saint, “Google CEO: ‘We Know Where You Are. We Know Where You’ve Been. We Can More Or Less Know What You’re Thinking About.,’” Business Insider Australia, 05-Oct-2010. [Online]. Available: https://www.businessinsider.com.au/eric-schmidt-we-know-where-you-are-we-know-where-youve-been-we-can-more-or-less-know-what-youre-thinking-about-2010-10. [Accessed: 06-Apr-2019].
+[7][A. the A. / S. D. S. A. D. was a senior privacy analyst at A. from 2010 to 2013 S. now an early stage investor at Accomplice,  a V. firm in Cambridge, and MA., “Facebook Likes predict sexual orientation, religion, and more,” Online Privacy | Abine, 12-Mar-2013. .](https://www.abine.com/blog/2013/facebook-likes-predict-who-you-are/)
+[8]P. Martineau, “Facebook is tracking you on over 8.4 million websites,” The Outline. [Online]. Available: https://theoutline.com/post/4578/facebook-is-tracking-you-on-over-8-million-websites. [Accessed: 11-Mar-2019].
+[9]“You Probably Don’t Know All The Ways Facebook Tracks You,” Gizmodo Australia, 13-Jun-2017. [Online]. Available: https://www.gizmodo.com.au/2017/06/you-probably-dont-know-all-the-ways-facebook-tracks-you/. [Accessed: 11-Mar-2019].
+[10][“Facebook knows you’re gay before you do,” AMERICAblog News, 20-Mar-2013. .](http://gay.americablog.com/2013/03/facebook-might-know-youre-gay-before-you-do.html)
+[11][B. Schneier, Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World, 1 edition. New York London: W. W. Norton & Company, 2016.](https://www.amazon.com/Data-Goliath-Battles-Collect-Control/dp/039335217X)
+[12][E. Pariser, Beware online “filter bubbles.” .](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles)
+[13][E. Pariser, The Filter Bubble: What the Internet Is Hiding from You. New York: Penguin Press, 2011.](https://www.amazon.com/The-Filter-Bubble-Internet-Hiding/dp/1594203008/)
