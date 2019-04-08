@@ -2,7 +2,7 @@
 (Project State: This document is under development, please revisit it at a later time, a lot more content is yet to be added/refined)
 
 There is a set of fundamental problems we face due to the current business model of heavily used internet services.
-This document aims to inform about the extent of tracking/servailnace in the modern world and how our privacy and attention is the currency we use to pay for these "free" internet services (and even paid ones). How the loss of privacy has far deeper implications than one may initially believe. How business model is leading towards a potential future where the tech giants could have unprecedented power.
+This document aims to inform about the extent of tracking/surveillance in the modern world and how our privacy and attention is the currency we use to pay for these "free" internet services (and even paid ones). How the loss of privacy has far deeper implications than one may initially believe. How business model is leading towards a potential future where the tech giants could have unprecedented power.
 This project is a collection of arguments and thoughts (backup up by evidence) on why your privacy matters, even if you believe you have nothing to hide from anyone. A resource you can point your friends and family to, when explaining why they should care about privacy and what they can do about it. Check our the sister project "Privacy Fighter" to find out what you can do right now as a first step to towards protecting your privacy.
 
 
@@ -53,7 +53,7 @@ It's not just you, as illustrated in [this](https://papers.ssrn.com/sol3/papers.
 
 
 How is it that companies that provide online services such as Google and Facebook are amongst the biggest and fastest growing enterprises? This is because they have figured out ways to monetise user generated information.
-There are large number of data brokers who's sole business is to profile/categorise people. whose names you'd have not heard the of. (Rubicon Project, AdSonar, Quantcast, Pulse 260, Undertone, Traffic Marketplace.) [103, BS] [citation lost: reee]
+There are large number of data brokers who's sole business is to profile/categories people. whose names you'd have not heard the of. (Rubicon Project, AdSonar, Quantcast, Pulse 260, Undertone, Traffic Marketplace.) [103, BS] [citation lost: reee]
 Even if you fully trust all of these organisations with your private data, it is vital to understand this trade and it's implications.
 Everyone seems to relate that individuals in these corporations having access to our personal data is creepy. The bigger problem is not that individuals in these corporations can access and even exploit personal data about you (even though that's a concern and it does happen [5]).
 The main problems regarding the loss of online privacy are for more fundamental. [ELABORATE]
@@ -66,7 +66,7 @@ That was said in 2010. The online tracking has become far more invasive since th
 So what does you data and metadata say about you? Take your Facebook likes example, just by analysing your Facebook likes, your race, political preference, sexual orientation can be predicted with high accuracy [7].
 But that's just likes, Facebook tracks much more including your browsing behaviour across more than 8 million websites. That is, even when you are not using Facebook, Facebook tracks you on every website that have their "Like" or "Share" buttons on it.[8]
 Facebook knows about; Where you go, Your financial status, Status updates you almost post, Apps you install, Apps your friends install, even when you're feeling low. - Bruce Schneier [9]
-There are cases, when Facebook was shown to know something deeply fundamental about their users, even before they realised it themselvesas; their own sexual orientation [10].
+There are cases, when Facebook was shown to know something deeply fundamental about their users, even before they realised it themselves; their own sexual orientation [10].
 
 
 #### 2.0 The Illusion Of "Free" Internet Services <a name="illusionoffree"></a>
@@ -91,7 +91,7 @@ These filter bubbles keep reinforcing the believes we currently hold (or are exp
 
 **The algorithms answer our queries, show us news articles, decide articles from what political view should be shown to us, really dictate how we view the state of the world. These algorithm are designed to do one thing, generate maximum traffic and screen time, not to create healthy, rational societies.**
 
-I do not believe that anyone at companies like Youtube (Google) intentionally feed the constant flow of controversial content to susceptible users. This is an example of human psycology hacks that machine learning algorithms (designed with the goal to maximise screen time) are ought to find and exploit. Nothing is done about it because the business model benefits from it.
+I do not believe that anyone at companies like Youtube (Google) intentionally feed the constant flow of controversial content to susceptible users. This is an example of human psychology hacks that machine learning algorithms (designed with the goal to maximize screen time) are ought to find and exploit. Nothing is done about it because the business model benefits from it.
 
 
 
