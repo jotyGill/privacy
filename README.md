@@ -25,20 +25,22 @@ Here is the breakdown of tracking networks of the major companies that have thei
 
 
 <p align="center">
-  <img src="https://gitlab.com/JGill/privacy/raw/master/data/tracking%20in%20top%20million%20websites.png">
+  <img src="https://github.com/jotyGill/privacy/blob/master/data/tracking%20in%20top%20million%20websites.png">
 </p>
-
 
 Fig. 1 From one of the largest and most detailed study on online tracking conducted [[1]](#ref1). The figure shows organisations with the highest third-party presence (trackers) on the top 1 million sites (Alexa rank). **Google/Facebook/Amazon and many others track you across all websites not just their own**
 
 
-![prompt](https://gitlab.com/JGill/privacy/raw/master/data/third%20party%20trackers%20in%20categories.png)
-
+<p align="center">
+  <img src="https://github.com/jotyGill/privacy/blob/master/data/third%20party%20trackers%20in%20categories.png">
+</p>
 
 Fig. 2 The prevalence of third-parties by Alexa site category, split between tracking and non-tracking third parties [[2]](#ref2). Shows most third parties linked in webpages are actually trackers. When you browse a news site, on average there are about 38 third parties tracking your news consumption.
 
-![prompt](https://gitlab.com/JGill/privacy/raw/master/data/washingtontimes-trackers-blocked.jpg )
 
+<p align="center">
+  <img src="https://github.com/jotyGill/privacy/blob/master/data/washingtontimes-trackers-blocked.jpg">
+</p>
 
 Fig. 3 A screenshot I took of uBlock Origin (extension), detecting and blocking 42 connections to trackers and ad servers on a News site washingtontimes.com.
 
